@@ -1,0 +1,14 @@
+{login_username:'chaikuaizhang@aliyun.com',login_userpwd:'Cckzcbm110',visa_type:3,pers_surnames:'ZHANG',birth_surnames:'ZHANG',pers_givennames:'HAOBIN',pers_sex:'M',
+pers_birth_date:'1982-08-14',minor_parent_surname:'WANG',minor_parent_givennames:'LUOBIN',
+birth_place:'XINXIANG',pers_province:'SHANGHAI',pers_hukou_province:'SHANGHAI',national_id:'410703198208143015',
+pass_num:'E22666788',passport_issue_date:'2013-06-21',passport_expiry_date:'2023-06-20',
+occupation_status:'Employed',pers_occupation_area:'White-collar',employer_name:'TONGJI UNIVERCITY',
+employer_address_street:'PUDONG ROAD 1000',employer_address_city:'SHANGHAI',employer_address_postcode:'200000',
+employer_phone:'8618601615522',school_name:'TONGJI UNIVERCITY',school_phone:'8618601615522',school_address_street:'PUDONG ROAD 1000',
+school_address_city:'SHANGHAI',school_address_postcode:'200000',fami_marital_status:'Married',pers_mobile_phone:'8618601615523',
+home_address_street:'PUDONG ROAD 1000',home_address_city:'SHANGHAI',home_address_postcode:'200000',
+trav_first_entry:'fr',trav_main_dest:'fr',trav_origin_departure_date:'2018-01-25',trav_departure_date:'2018-01-25',
+trav_arrival_date:'2018-01-30',circulation:'f',trav_host_is_organisation:'t',trav_host_organisation_contact_name:'SADN METTING',
+trav_host_name:'HUSDNG',trav_host_address_street:'PUDONG ROAD 1000',trav_host_address_city:'SHANGHAI',trav_host_address_postcode:'200000',
+trav_host_phone:'330134332000',sponsorship:'self_sponsored',means_of_support:'cash',first_schengen_trip:'f',fingerprints_collected:'t'
+}

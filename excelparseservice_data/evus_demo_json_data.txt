@@ -1,0 +1,18 @@
+{
+surname:'LI',givenName:'LI',dob:'14/08/1982',haveVisa:'yes',visaFoil:'M3619754',
+passportNumber:'EA8379164',passIssueCountry:'string:CN',passIssue:'26/07/2017',
+passExpiration:'25/07/2022',havePrimaryPassport:'yes',primaryPassNum:'',
+primaryPassCOI:'',primaryPassIssue:'',primaryPassExp:'',primaryPassSurname:'',
+primaryPassGivenName:'',primaryPassDOB:'',
+surnameNative:'李',givenNameNative:'笨',gender:'M',birthCity:'CHANGZHOU',
+birthCountry:'string:CN',citizenshipCountry:'string:CN',nationalID:'410703198208143022',
+contactAddressOne:'CHANGZHOU ROAD NO.1200',contactAddressCity:'CHANGZHOU',contactAddressState:'JIANGSU',
+contactAddressCountry:'string:CN',contactAddressPhoneType0:'home',contactAddressPhone0:'18601615548',
+contactEmailAddress:'test@qq.com',familyNameParent1:'LI',givenNameParent1:'SHIMIN',
+familyNameParent2:'HUANG',givenNameParent2:'YAFANG',parent1Native:'李世民',nameParentNative2:'黄亚芳',
+haveEmployer:'yes',employmentTitle:'',employerName:'',employerNameNative:'测试',employmentAddressOne:'Room 302,unit 1,building 5,lane 13,maxiangmen',
+employmentAddressCity:'DANYAN',employmentAddressState:'JIANGSU',employmentAddressCountry:'string:CN',
+employmentPhone:'02162118186',usContactName:'SAINT BEDE ACADEMY',usContactAddressOne:'1079 COMMONWEALTH AVE',usContactAddressCity:'BOSTON',
+usContactAddressState:'MA',usContactPhoneNumber:'8152233140',emergencyFamilyName:'WANG',emergencyGivenName:'CHENJIAN',
+emergencyEmail:'2880847958@qq.com',emergencyPhone:'8152233140',
+}
