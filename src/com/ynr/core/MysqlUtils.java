@@ -7,8 +7,8 @@ import java.sql.Statement;
 
 public class MysqlUtils {
 
-	public static final String MYSQL_URL = "jdbc:mysql://120.132.93.249:3306/autofillform?useUnicode=true&characterEncoding=UTF-8";
-	public static final String MYSQL_PASSWD = "zaq12wsx";
+	public static final String MYSQL_URL = "jdbc:mysql://117.48.211.42:3306/autofillform?useUnicode=true&characterEncoding=UTF-8";
+	public static final String MYSQL_PASSWD = "Cckzcbm110";
 	public static final String MYSQL_USER = "root";
 	
 	static {

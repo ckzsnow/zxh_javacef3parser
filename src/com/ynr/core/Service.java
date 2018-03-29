@@ -31,6 +31,7 @@ public class Service {
 			parserClassList.add(Class.forName("com.ynr.parser.AustraliaParser"));
 			parserClassList.add(Class.forName("com.ynr.parser.EVUSParser"));
 			parserClassList.add(Class.forName("com.ynr.parser.FranceParser"));
+			parserClassList.add(Class.forName("com.ynr.parser.IndiaParser"));
 			for(Class<?> parserClass : parserClassList){
 				String simpleName = parserClass.getSimpleName();
 				System.out.println(simpleName);
@@ -179,6 +180,5 @@ public class Service {
 	public static void main(String[] args) {
 		Service service = new Service();
 		service.startService();
-	}
-	
+	}	
 }
